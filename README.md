@@ -20,4 +20,5 @@ For this challenge, I was tasked to refactor the codebase for Horiseon's website
 
 ## Website
 
+https://verouge.github.io/Horiseon-M1C/
 ![screenshot](./assets/images/screenshot-horiseon.jpg)
